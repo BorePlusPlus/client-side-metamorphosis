@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    color: #333;
+}
+
+label {
+    font-weight: bold;
+    margin-right: 0.5em;
+}
+
+input {
+    margin-right: 1em;
+}
+
+button {
+    margin-right: 1em;
+}
+
+canvas {
+    padding: 0.2em;
+    border: solid 1px #aaa;
+    border-radius: 0.2em;
+}
+
+#input {
+    margin-bottom: 0.5em;
+}
+
+#input input {
+    width: 5em;
+}
+
+#file {
+    margin-top: 0.5em;
+}
+
+#file input {
+    width: 20em;
+}
