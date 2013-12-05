@@ -1,0 +1,27 @@
+{
+  "name": "client-side-metamorphosis",
+  "version": "0.0.1",
+  "description": "Client side image transformation",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BorePlusPlus/client-side-metamorphosis.git"
+  },
+  "keywords": [
+    "image",
+    "transformation",
+    "scale",
+    "resize",
+    "crop",
+    "sharpen"
+  ],
+  "author": "Dalibor \"BorePlusPlus\" Novak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BorePlusPlus/client-side-metamorphosis/issues"
+  },
+  "dependencies": {
+    "express": "~3.4.6",
+    "base64-stream": "~0.1.2"
+  }
+}
